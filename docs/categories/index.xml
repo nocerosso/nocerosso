@@ -2,38 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on nocerosso</title>
-    <link>https://nocerosso.github.io/nocerosso/categories/</link>
+    <link>http://localhost:1313/nocerosso/categories/</link>
     <description>Recent content in Categories on nocerosso</description>
     <generator>Hugo</generator>
     <language>it-IT</language>
-    <lastBuildDate>Sun, 01 Aug 2021 21:29:20 +0200</lastBuildDate>
-    <atom:link href="https://nocerosso.github.io/nocerosso/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Sep 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/nocerosso/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Lorem</title>
-      <link>https://nocerosso.github.io/nocerosso/categories/lorem/</link>
-      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
-      <guid>https://nocerosso.github.io/nocerosso/categories/lorem/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Programming</title>
-      <link>https://nocerosso.github.io/nocerosso/categories/programming/</link>
-      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
-      <guid>https://nocerosso.github.io/nocerosso/categories/programming/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Pseudo</title>
-      <link>https://nocerosso.github.io/nocerosso/categories/pseudo/</link>
-      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
-      <guid>https://nocerosso.github.io/nocerosso/categories/pseudo/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Starting</title>
-      <link>https://nocerosso.github.io/nocerosso/categories/starting/</link>
-      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
-      <guid>https://nocerosso.github.io/nocerosso/categories/starting/</guid>
+      <title>Energia</title>
+      <link>http://localhost:1313/nocerosso/categories/energia/</link>
+      <pubDate>Thu, 17 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/nocerosso/categories/energia/</guid>
       <description></description>
     </item>
   </channel>

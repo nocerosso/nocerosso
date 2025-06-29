@@ -1,19 +1,17 @@
 {
-    "id": "828B236C",
-    "path": "~/siti/nocerosso-hugo/content/contact.md",
-    "project_path": "content/contact.md",
+    "id": "1E633399",
+    "path": "~/siti/nocerosso-hugo/content/blog/linked-post.md",
+    "project_path": "content/blog/linked-post.md",
     "type": "markdown",
     "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1751219143449.0,
+    "created": 1751227076836.0,
     "source_on_save": false,
-    "relative_order": 2,
+    "relative_order": 12,
     "properties": {
         "source_window_id": "",
-        "Source": "Source",
-        "cursorPosition": "0,3",
-        "scrollLine": "0"
+        "Source": "Source"
     },
     "folds": "",
     "lastKnownWriteTime": 1751216334,

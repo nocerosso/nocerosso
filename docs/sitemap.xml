@@ -2,75 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://nocerosso.github.io/nocerosso/authors/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <loc>http://localhost:1313/nocerosso/tags/batterie/</loc>
+    <lastmod>2015-09-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nocerosso.github.io/nocerosso/blog/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <loc>http://localhost:1313/nocerosso/blog/2015/09/17/best/</loc>
+    <lastmod>2015-09-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nocerosso.github.io/nocerosso/categories/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <loc>http://localhost:1313/nocerosso/blog/</loc>
+    <lastmod>2015-09-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nocerosso.github.io/nocerosso/blog/2021/08/01/categories-post/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <loc>http://localhost:1313/nocerosso/categories/</loc>
+    <lastmod>2015-09-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nocerosso.github.io/nocerosso/tags/golang/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <loc>http://localhost:1313/nocerosso/categories/energia/</loc>
+    <lastmod>2015-09-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nocerosso.github.io/nocerosso/tags/hugo/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <loc>http://localhost:1313/nocerosso/tags/energia/</loc>
+    <lastmod>2015-09-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nocerosso.github.io/nocerosso/authors/john-doe/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <loc>http://localhost:1313/nocerosso/</loc>
+    <lastmod>2015-09-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nocerosso.github.io/nocerosso/categories/lorem/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <loc>http://localhost:1313/nocerosso/tags/</loc>
+    <lastmod>2015-09-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nocerosso.github.io/nocerosso/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <loc>http://localhost:1313/nocerosso/authors/</loc>
   </url><url>
-    <loc>https://nocerosso.github.io/nocerosso/categories/programming/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
-  </url><url>
-    <loc>https://nocerosso.github.io/nocerosso/tags/programming/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
-  </url><url>
-    <loc>https://nocerosso.github.io/nocerosso/categories/pseudo/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
-  </url><url>
-    <loc>https://nocerosso.github.io/nocerosso/tags/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
-  </url><url>
-    <loc>https://nocerosso.github.io/nocerosso/tags/theme/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
-  </url><url>
-    <loc>https://nocerosso.github.io/nocerosso/authors/jane-doe/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
-  </url><url>
-    <loc>https://nocerosso.github.io/nocerosso/blog/2015/10/02/linked-post/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
-  </url><url>
-    <loc>https://nocerosso.github.io/nocerosso/tags/go/</loc>
-    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
-  </url><url>
-    <loc>https://nocerosso.github.io/nocerosso/blog/2015/09/17/go-is-for-lovers/</loc>
-    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
-  </url><url>
-    <loc>https://nocerosso.github.io/nocerosso/blog/2015/08/03/hugo-is-for-lovers/</loc>
-    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
-  </url><url>
-    <loc>https://nocerosso.github.io/nocerosso/blog/2015/06/24/creating-a-new-theme/</loc>
-    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
-  </url><url>
-    <loc>https://nocerosso.github.io/nocerosso/categories/starting/</loc>
-    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
-  </url><url>
-    <loc>https://nocerosso.github.io/nocerosso/contact/</loc>
-  </url><url>
-    <loc>https://nocerosso.github.io/nocerosso/faq/</loc>
-  </url><url>
-    <loc>https://nocerosso.github.io/nocerosso/tags/ipsum/</loc>
-  </url><url>
-    <loc>https://nocerosso.github.io/nocerosso/blog/1/01/01/migrate-from-jekyll/</loc>
+    <loc>http://localhost:1313/nocerosso/contact/</loc>
   </url>
 </urlset>
