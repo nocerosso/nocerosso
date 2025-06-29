@@ -1,4 +1,4 @@
-baseurl = "https://nocerosso.github.io/nocerosso/nocerosso" # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme URL: https://<username>.github.io/hugo-universal-theme/
+baseurl = "https://nocerosso.github.io/nocerosso" # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme URL: https://<username>.github.io/hugo-universal-theme/
 title = "nocerosso"
 theme = "hugo-universal-theme"
 themesDir = "themes"
