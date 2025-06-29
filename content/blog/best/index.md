@@ -1,12 +1,15 @@
 +++ 
 title = "Best" 
-date = "2015-09-17" 
+date = "2025-06-29" 
 tags = ["energia","batterie"] 
 categories = ["energia"] 
 banner = "img/banners/banner-2.jpg" 
 +++ 
 
+
 ## Buoyancy Energy Storage Technology
+
+![boa](boa_ita.svg)
 
 ### Una soluzione fattibile per l'accumulo dell'Energia con boe
 
